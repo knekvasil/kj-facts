@@ -24,7 +24,7 @@ http://localhost:80/
 Twist it!
 Bop it!
 
-Otherwise, it's hosted on heroku:
+Otherwise, it's hosted on Heroku:
 ```
 https://kjfacts.herokuapp.com/api/<quantity>
 ```
